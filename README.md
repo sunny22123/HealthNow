@@ -1,7 +1,7 @@
 # HealthNow
 HealthNow allows you to find healthcare providers in Pittsburgh, Pennsylvania.  
 
-![Image showing four windows of the app. Top left is the Google Maps Query app. Top right is the Welcome window. Bottom left is the Healthcare Provider Map Generator window. Bottom middle is the Healthcare Resource Search System.](static/img/app.jpg "HealthNow Interfaces")
+![Image showing four windows of the app. Top left is the Google Maps Query app. Top right is the Welcome window. Bottom left is the Healthcare Provider Map Generator window. Bottom middle is the Healthcare Resource Search System.](app.jpg "HealthNow Interfaces")
 
 ## Motivation
 Finding suitable care nearby you is difficult. The goal of HealthNow is to reduce the time and effort needed to do so.
