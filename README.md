@@ -20,7 +20,7 @@ You can download the package directly by clicking the green Code button and clic
 If you have git installed, you can enter the following command in your terminal:
 
 ```
-git clone https://github.com/jeffkwang/HealthNow.git
+git clone https://github.com/sunny22123/HealthNow.git
 ```
 
 ### Dependencies
